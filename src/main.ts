@@ -23,4 +23,8 @@ button.addEventListener("click", () => {
   counter += 1;
   counterElement.textContent = counter.toString();
   console.log("I have these thingies:", button, counterElement, counter);
+  console.log("this is rayden's log :p");
+  console.log("Keanu logged.");
+  console.log("Rheann typed here");
+  console.log("Caden logged this.");
 });
