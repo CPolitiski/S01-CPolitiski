@@ -26,5 +26,5 @@ button.addEventListener("click", () => {
   console.log("this is rayden's log :p");
   console.log("Keanu logged.");
   console.log("Rheann typed here");
-  console.log("Caden logged this.");
+  console.log("Caden has logged this.");
 });
